@@ -1,1 +1,1 @@
-# Quantum-physiscs
+# Quantum-physics
